@@ -17,8 +17,8 @@ import retrofit2.http.Path;
 
 /**
  * Created by Uri Abad on 12/09/16.
- * Seidor S.A.
- * oabad@seidor.es
+ *
+ * oriol.apa@gmail.com
  */
 public interface TokenService {
 

@@ -5,7 +5,7 @@ import uriabad.oauth2weblibrary.net.AccessToken;
 
 /**
  * Created by Uri Abad on 08/09/16.
- * Seidor S.A.
+ *
  * oriol.apa@gmail.com
  */
 public interface OAUTH2View {
